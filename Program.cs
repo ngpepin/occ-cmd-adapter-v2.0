@@ -34,7 +34,7 @@ namespace OccCmdAdapter
             Console.WriteLine($"Nextcloud Path: {nextcloudPath}");
         }
 
-        static string ExecuteBashCommand(string command)
+        static string ExecuteBashCommand(string command) 
         {
             try
             {
