@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove=".Program~~~~001.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="occ-cmd-adapter.sln" />
   </ItemGroup>
 
